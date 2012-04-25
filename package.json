@@ -1,0 +1,6 @@
+{
+    "name": "shell-jasmine",
+    "description": "Provides a hook to the jasmine-node from a client-side CLI.",
+    "version": "0.1",
+    "author": "Grzegorz Lyczba <grzegorz.lyczba@gmail.com"
+}
